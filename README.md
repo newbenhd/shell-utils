@@ -1,4 +1,6 @@
 # shell utilies
 
-| command | Description |
-|:---|:---|
+Default path: $HOME/bin/custom
+
+| command | Description | Dependencies |
+|:---|:---|:---|
